@@ -20,7 +20,8 @@ The experiment will have two phases. (1) A pair of people NOT using our system a
 * Zoom meeting to conduct the experiment.
 * Google Form to collect results.
 * A timer to compute the time used by tester.
-* Experiment data can be found [here]()
+* Experiment setup info can be found [here](https://docs.google.com/document/d/15PUz_b4x4EqYdBk5F1nh2KZTbapiVmPjfnwp4cz4WrA/edit)
+* Experiment results can be found [here]()
 
 ### Observations
 
